@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__aixbt__list-projects",
+      "mcp__aixbt__query-indigo",
+      "mcp__aixbt__get-signals",
+      "mcp__perplexity__search"
+    ]
+  }
+}
